@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(/Users/sagi770/.claude/**)",
+      "Bash(chmod:*)",
+      "Bash(./update-docs-command.sh:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

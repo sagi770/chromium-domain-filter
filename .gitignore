@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+
+# Testing
+coverage/
+.nyc_output/
+
+# Build files
+dist/
+build/
+
+# Local environment files
+.env
+.env.local
+
+# Backup files
+*.bak
+*_old.*
+README_JSON_CONFIG.md
+
+# Test files
+test_checklist.md
+validate_config.js
+
+# Chrome extension dev files
+*.crx
+*.pem
+
+# Package lock files (optional - uncomment if you don't want to track)
+# package-lock.json
+# yarn.lock

@@ -1,0 +1,17 @@
+{
+  "allowlist": [
+    "example.com",
+    "google.com",
+    "github.com",
+    "stackoverflow.com",
+    "developer.chrome.com"
+  ],
+  "defaultRedirectUrl": "https://example.com/blocked",
+  "enabled": true,
+  "lastUpdated": "2025-01-07T13:46:00Z",
+  "comments": {
+    "description": "Chrome extension allowlist configuration",
+    "note": "Add domains without protocol (http/https). Subdomains are automatically included.",
+    "example": "Adding 'google.com' allows all *.google.com subdomains"
+  }
+}
